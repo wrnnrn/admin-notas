@@ -1,0 +1,9 @@
+{
+  "usuarios_no_privilegiados": {
+    "usuario1": "contraseña123",
+    "wrnnrn": "contraseña"
+  },
+  "usuarios_privilegiados": {
+    "admin": "admin"
+  }
+}

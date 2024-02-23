@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "edad": 30,
+        "correo": "juan@example.com",
+        "genero": "masculino"
+    },
+    {
+        "nombre": "María",
+        "apellido": "González",
+        "edad": 25,
+        "correo": "maria@example.com",
+        "genero": "femenino"
+    },
+    {
+        "nombre": "Carlos",
+        "apellido": "Martínez",
+        "edad": 35,
+        "correo": "carlos@example.com",
+        "genero": "masculino"
+    },
+    {
+        "nombre": "Laura",
+        "apellido": "López",
+        "edad": 28,
+        "correo": "laura@example.com",
+        "genero": "femenino"
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "Sánchez",
+        "edad": 40,
+        "correo": "pedro@example.com",
+        "genero": "masculino"
+    }
+]
